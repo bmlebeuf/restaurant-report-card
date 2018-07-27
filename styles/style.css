@@ -1,0 +1,51 @@
+body {
+  /*padding-top: 10px;*/
+    color: #033c73;
+}
+
+.page-header {
+    padding-bottom: 20px;
+    margin: 30px 0 20px;
+    border-bottom: 1px solid #eeeeee;
+}
+
+.well {
+    margin-top: 65px;
+}
+
+.panel {
+    margin-top: 20px;
+}
+
+#results {
+    padding-top: 40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.custom {
+    width: 75px !important;
+}
+
+.hide {
+    display: none;
+}
+
+.btn-success {
+    margin: auto;
+    width: 150px;
+    margin-top: 20px;
+}
+
+#map {
+    height: 500px;
+/*    width: 80%;*/
+    margin: 40px 0px 0px 0px;
+    padding: 0px;
+}
+
+h1 {
+    color: #033c73;
+}
